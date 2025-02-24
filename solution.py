@@ -1,5 +1,5 @@
-import numpy as np
 import cv2
+import numpy as np
 from cvzone.HandTrackingModule import HandDetector
 import google.generativeai as genai
 from PIL import Image
